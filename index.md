@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/lvzha/lvzha.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[www.lvzha.com](https://www.lvzha.com).
+[www.lvzha.com](https://www.lvzha.com)
 
 ### Markdown
 
