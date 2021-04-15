@@ -2,5 +2,5 @@
 theme: jekyll-theme-hacker
 title: [www.lvzha.com]
 description: [滤渣 绿扎 绿渣 绿榨 绿闸 绿栅 旅札 铝渣 铝栅]
-show_downloads: ["true"]
+show_downloads: ["false"] # true or false
 google_analytics: [G-NHDBE7ZY3B]
