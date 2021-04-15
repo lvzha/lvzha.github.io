@@ -1,2 +1,6 @@
 #remote_theme: chrisrhymes/bulma-clean-theme
 theme: jekyll-theme-hacker
+title: [The title of your site]
+description: [A short description of your site's purpose]
+show_downloads: ["true"]
+google_analytics: [G-NHDBE7ZY3B]
