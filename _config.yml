@@ -1,5 +1,5 @@
-#remote_theme: chrisrhymes/bulma-clean-theme
-theme: jekyll-theme-hacker
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: jekyll-theme-hacker
 title: [www.lvzha.com]
 description: [滤渣 旅札 铝渣]
 #show_downloads: [false] # true or false
