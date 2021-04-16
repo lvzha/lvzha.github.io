@@ -2,6 +2,6 @@
 theme: jekyll-theme-hacker
 title: [www.lvzha.com]
 description: [滤渣 旅札 铝渣]
-show_downloads: [false] 
+show_downloads: ["false"] 
 # true or false
 google_analytics: [G-NHDBE7ZY3B]
