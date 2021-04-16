@@ -1,5 +1,5 @@
-remote_theme: old-jekyll-templates/Ion-Jekyll-Theme
-#theme: jekyll-theme-hacker
+#remote_theme: old-jekyll-templates/Ion-Jekyll-Theme
+theme: jekyll-theme-hacker
 title: [www.lvzha.com]
 description: [滤渣 旅札 铝渣]
 show_downloads: [true] # true or false
