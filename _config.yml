@@ -1,8 +1,8 @@
 # (string) Title of your wiki
-title: git-wiki
+title: wiki
 demo_ver: 1.0.2
 remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
+description: Wiki demo and documentation
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
@@ -13,7 +13,7 @@ show_wiki_posts: true
 show_wiki_posts_limit: 5
 logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
 google_analytics:
-git_branch: gh-pages
+git_branch: main
 use_github_wiki: false
 use_prose_io: true
 service: github
