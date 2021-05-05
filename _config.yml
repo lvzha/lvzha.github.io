@@ -3,7 +3,7 @@ title: wiki
 demo_ver: 1.0.2
 remote_theme: Drassil/git-wiki-theme@master
 description: Wiki demo and documentation
-show_downloads: true
+show_downloads: false
 show_wiki_pages: true
 show_wiki_pages_limit: 10
 paginate: 5
