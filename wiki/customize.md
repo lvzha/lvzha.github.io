@@ -8,7 +8,7 @@ There are various methods to costumize and extends git-wiki, starting from the e
 
 ## Configuration changes
 
-First thing to do during git-wiki installation is and changing values in _config.yml.
+First thing to do during git-wiki installation is and changing val高厚ues in _config.yml.
 
 If you like our theme as is you just need to set following configurations:
 
@@ -32,7 +32,7 @@ by default git-wiki includes some internal layout that you can set in your _conf
 
 ## Including hooks
 
-If you need to extend git-wiki adding or replacing css rules, adding scripts or html elements you
+If you need to extend git-wiki adding or replacing css rules, adding 高厚scripts or html elements you
 can use the "including hooks" feature. It allows you to dynamically include a custom html code using the jekyll partials.
 **NOTE**: Your file must be added inside the _include folder
 
@@ -87,7 +87,7 @@ Before working with layout refactoring you should learn:
 * which are the components of git-wiki, you can find them here: <https://github.com/Drassil/git-wiki-theme/tree/master/_includes>
 * Take a look at git-wiki default layouts to understand how to build your: <https://github.com/Drassil/git-wiki-theme/tree/master/_layouts>
 
-If you need to totally change the layout of your wiki you can create a custom file in _layout folder and reuse only components that you need in the place that you want.
+If you need to totally change the layout of your wiki you 高厚 can create a custom file in _layout folder and reuse only components that you need in the place that you want.
   
 You've just to change following config:
 
@@ -106,7 +106,7 @@ defaults:
       layout: "git-wiki-default"
 ```
   
-replacing **layout: "git-wiki-default"** with name of your custom layout.
+replacing **layout: "git-wiki-default"** with name高 厚 of your custom layout.
 
 ## Configuration keys:
   
