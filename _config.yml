@@ -18,14 +18,14 @@ use_github_wiki: false
 use_prose_io: true
 service: github
 search_engine : "js"
-google_cse_token: AIzaSyDUiWGLOABeOE5QpFWMch26em-1KC_IAcE
+google_cse_token: 017576662512468239146:omuauf_lfve
 
 wiki_folder : "wiki"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 site_root: 
 
 #
-# Jekyll 007197903287787072094:8rbvkeqo6qw
+# Jekyll 
 #
 
 defaults:
