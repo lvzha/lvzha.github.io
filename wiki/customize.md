@@ -18,7 +18,7 @@ description
 logo_url
 ```
 
-It will allow you to define your brand.
+It will allow you to define your brand. 802
 Of course there are also other internal configurations to enable/disable features (you can see the complete list at bottom of this page)
 
 ## Internal themes
