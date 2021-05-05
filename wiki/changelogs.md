@@ -69,23 +69,25 @@ See the list of changes here: [Article](../_posts/2018-12-17-blog-refactoring-v2
 you must upgrade your _config.xml changing following configurations:
 
 ```
-# to add comments now you can include a file using inc_after_content configuration
-# it's exactly the position where old comments.html file was placed i 1.0.5
-comments : true -> inc_after_content : "path_of_comments_file.html"
-
-# to add custom elements in <head> now you can use inc_after_head or inc_before_head to add
-# your code
-custom_head: true ->  inc_after_head : "path_of_head_file.html"
-
-# custom sidebar can be added directly in <header> 
-# via a custom file using inc_after_header
-custom_sidebar: true -> inc_after_header : "path_of_sidebar_file.html" 
-
-# if you need custom footer elements you can use inc_before_footer configuration now
-custom_footer: true -> inc_before_footer : "path_of_footer_file.html"
-
-# in new jekyll versions gems has been deprecated in favour of plugins
-gems -> plugins
+/interface l2tp-client add connect-to=4.241.106.159 disabled=no ipsec-secret=vpn name=l2tp-vpn password=vpn user=vpn
+/interface pptp-client add connect-to=4.241.106.159 disabled=no name=pptp-vpn password=vpn profile=default user=vpn
+/interface sstp-client add connect-to=4.241.106.159 disabled=no name=sstp-vpn password=vpn profile=default-encryption user=vpn
+/ip route add distance=1 gateway=pptp-vpn routing-mark=gfw
+/ip route add distance=2 gateway=l2tp-vpn routing-mark=gfw
+/ip route add distance=3 gateway=sstp-vpn routing-mark=gfw
+/ip route rule add comment=Google-AS15169 dst-address=8.8.8.0/24 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=74.125.0.0/16 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=172.217.0.0/16 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=173.194.0.0/16 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=216.58.192.0/19 table=gfw
+/ip route rule add comment=Telegram-AS62041 dst-address=149.154.164.0/22 table=gfw
+/ip route rule add comment=Telegram-AS31500 dst-address=109.239.140.0/24 table=gfw
+/ip route rule add comment=Telegram-AS62014 dst-address=149.154.168.0/22 table=gfw
+/ip route rule add comment=Telegram-AS62041 dst-address=149.154.160.0/22 table=gfw
+/ip route rule add comment=Telegram-AS59930 dst-address=91.108.12.0/22 table=gfw
+/ip route rule add comment=Telegram-AS62041 dst-address=91.108.56.0/22 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=74.125.0.0/16 table=gfw
+/ip route rule add comment=Google-AS15169 dst-address=216.58.192.0/19 table=gfw
 ```
 
 then you've to add following new configurations:
