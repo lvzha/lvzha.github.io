@@ -13,6 +13,18 @@ it's a **modular and full featured wiki** powered by git, [github](https://pages
 
 The easier and faster way to use git-wiki is the "skeleton" method.
 
+<div id='pwyw' style='width: 175px;'></div>
+<script type='text/javascript' src='https://merchant.wmtransfer.com/conf/lib/widgets/wmApp.js?v=1.1'></script>
+<script type='text/javascript'>
+ window.webmoney.widgets().PWYW.create({ lang: 'en', data: { amount: null, purse: 'Z591213572048', desc: 'test products' } })
+   .on('paymentComplete', function (data) {
+   // your code
+     console.log(data)
+   })
+   .mount('pwyw')
+</script>
+
+
 **You don't need to install anything locally!**
 
 1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of the skeleton project.
