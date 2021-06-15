@@ -33,4 +33,4 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 [Ventoy](https://www.ventoy.net/cn/index.html)<br>-[Ventoy]
 
-[Ventoy](https://www.ventoy.net/cn/index.html)<br>-[Ventoy]
+[Ventoy](https://www.ventoy.net/cn/index.html)<br>-[制作可启动U盘的开源工具]
