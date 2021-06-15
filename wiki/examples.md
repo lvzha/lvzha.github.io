@@ -31,8 +31,6 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 * [HPS](https://hps-ucsd-2020.github.io/wiki.html)
 
 * [Ventoy](https://www.ventoy.net/cn/index.html) https://www.ventoy.net/cn/index.html
->的风格时代风格时代风格士大夫
-
-[Ventoy]创建脚注格式类似这样 [^RUNOOB]。
-
-[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+>[Ventoy]
+[Ventoy](https://www.ventoy.net/cn/index.html)[ ]https://www.ventoy.net/cn/index.html
+[Ventoy]
