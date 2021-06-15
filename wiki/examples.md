@@ -30,4 +30,4 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [HPS](https://hps-ucsd-2020.github.io/wiki.html)
 
-*[Ventoy](https://www.ventoy.net/cn/index.html)
+* [Ventoy](https://www.ventoy.net/cn/index.html)
