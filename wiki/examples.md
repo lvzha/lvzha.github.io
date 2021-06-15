@@ -8,29 +8,4 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [sgidev](http://www.sgidev.org/)
 
-* [HW-Core JS Class](https://hw-core.github.io/js-lib-class/)
-
-* [Agora Wiki](https://agoranomic.github.io/wiki/)
-
-* [ClearlyDefined doc](https://docs.clearlydefined.io/)
-
-* [ifbctag](https://ifbctag.github.io/labwiki)
-
-* [sonbuildmeahouse](https://sonbuildmeahouse.github.io/)
-
-* [lacroix](https://gihad.github.io/lacroix/)
-
-* [NCSA Genomics](http://priyab2.github.io/git-wiki)
-
-* [WoWGaming](https://wowgaming.github.io/wiki-en)
-
-* [Talon Wiki](https://talon.wiki/)
-
-* [Ornia](https://ornia.arcinas.info/)
-
-* [HPS](https://hps-ucsd-2020.github.io/wiki.html)
-
-
-[Ventoy](https://www.ventoy.net/cn/index.html)<br>-[Ventoy]
-
 [Ventoy](https://www.ventoy.net/cn/index.html)<br>-[制作可启动U盘的开源工具]
