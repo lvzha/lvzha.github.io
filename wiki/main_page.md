@@ -139,6 +139,9 @@ send a private <a href="mailto:staff-drassil@googlegroups.com">email</a>  or cre
 
 Thank you!
 
+(13) 如何在甲骨文 Oracle Cloud 安装部署 RouterOS？Deploy MikroTik RouterOS CHR on Oracle Cloud - YouTube
+https://www.youtube.com/watch?v=tKE3c8B1cOY
+
 ## Components used
 
 - [jekyll-toc](https://github.com/allejo/jekyll-toc)
